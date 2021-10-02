@@ -1,6 +1,6 @@
-Hi, I’m Nirbhay, I am a highschooler (class of 2025)
+Hi, I’m Nirbhay, I am a highschooler (class of 2025!)
 I’m interested in robotics and embedded systems.
-I’m currently learning C++
+I’m currently learning C++.
 I’m looking to collaborate on projects that enhance my skill in c++.
 
 <!---
